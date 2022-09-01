@@ -2,24 +2,32 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Instituto Gulbenkian de Ciência</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: paris-os.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Instituto Gulbenkian de Ciência</p>
+    <p>Oeiras</p>
+    <p>Portugal</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my web-page! I'm a postdoctoral researcher in [Prof. Ricardo Henriques' group](https://henriqueslab.github.io/) at [Instituto Gulbenkian de Ciência](https://gulbenkian.pt/ciencia/) in Portugal, so if you want to know more about the research projects I'm involved in, please visit the lab webpage. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm a researcher with a strong background in mathematics and computer sciences, who loves using them to write biomedical stories. 
+My research interests focus on (1) contributing to biological discoveries by exploiting image processing techniques and (2) face current challenges the world of Artificial Intelligence and microscopy imaging.
+A crucial part of my work and dedication is to make research accessible at all means (open, user-friendly, and reusable) and train other scientists to benefit from the work I'm involved in.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## Academic background
+In 2021, I obtained her PhD in Mathematical Engineering at Universidad Carlos III de Madrid in Spain, supervised by Prof. Arrate Muñoz Barrutia and Prof. Denis Wirtz (Johns Hopkins University). 
+During my doctorate, I developed automatic methods to process transmission electron microscopy images and phase-contrast time-lapse movies (segmentation, tracking and detection).
+contribute to the characterization of cancer cell motility and inter-cellular communication. 
+I also developed new biostatistical approaches to assess statistical null hypotheses (H0) in the big-data paradigm (yes, *p-values* are data size-dependent). 
+I'm one of the creators of deepImageJ -an environment to bridge DL to ImageJ-, a core team member of the BioImage Model Zoo, and a developer of ZeroCostDL4Mic. 
+I'm also a collaborator of the Cell Tracking Challenge.
