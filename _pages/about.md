@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://gulbenkian.pt/ciencia/research-groups/rhenriques/'>Optical Cell Biology Group</a>, <a href='https://gulbenkian.pt/ciencia/'>Instituto Gulbenkian de Ciência</a>
+subtitle: <a href='https://gulbenkian.pt/ciencia/research-groups/rhenriques/'>Optical Cell Biology Group</a>, <a href='https://gulbenkian.pt/ciencia/'>Instituto Gulbenkian de Ciência</a>, Oeiras, Portugal
 
 profile:
   align: right
   image: paris-os.jpeg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Instituto Gulbenkian de Ciência</p>
-    <p>Oeiras</p>
-    <p>Portugal</p>
+  address: 
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
