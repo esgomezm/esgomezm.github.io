@@ -1,6 +1,6 @@
 ---
-layout: About
-title: about
+layout: about
+title: About
 permalink: /
 subtitle: <a href='https://gulbenkian.pt/ciencia/research-groups/rhenriques/'>Optical Cell Biology Group</a>, <a href='https://gulbenkian.pt/ciencia/'>Instituto Gulbenkian de Ciência</a>, Oeiras, Portugal
 
