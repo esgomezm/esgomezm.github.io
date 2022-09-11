@@ -1,12 +1,18 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - esgomezm
+  - deepimgej
+  - bioimage-io
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - BIIG-UC3M/pMoSS
+  - esgomezm/microscopy-dl-suite-tf
+  - deepimagej/deepimagej-plugin
+  - deepimagej/models
+  - HenriquesLab/ZeroCostDL4Mic
+  - HenriquesLab/DeepBacs
+  - deepimagej/deepimagej
+  - BIIG-UC3M/FRU-Net-TEM-segmentation
+  - bioimage-io/bioimage.io
+  - bioimage-io/spec-bioimage-io
+  - deepimagej/tensorflow-js-models
+  - deepimagej/pydeepimagej
