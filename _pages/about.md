@@ -19,7 +19,7 @@ Welcome! I'm a postdoctoral researcher in [Prof. Ricardo Henriques' group](https
 If you want to know more about the research projects I'm involved in, please visit the lab's webpage. 
 
 ### Who am I?
-I'm a woman researchers passionated about **Math** (parallels that may intersect, read Riemmann or let me chat with you and a balloon), (Pseudo-)**Living systems** (let's not discriminate viruses) and **Visual expression** (art, photography, drawing). 
+I'm a woman researchers passionated about **Math** (parallels that may intersect, read Riemmann or let me chat with you and a balloon), (Pseudo-)**Living systems** (let's not discriminate viruses) and **Visual information/communication** (art, photography, drawing). 
 So biomedical imaging felt as the perfect match from the very first moment I got into Science.
 Basically, I love combining my knowledge in mathematics and computer sciences with biomedical images to write new stories. 
 
