@@ -32,8 +32,8 @@ I'm yet another crazy researcher who believes that science builds upon the effor
 
 ### My research work until now
 
-My research builds upon the ability to ask & translate biomedical questions into math and my skills to develop new image processing workflows using deep learning, among others. 
-These are the projects that brought me the chance to prove so:
+My research builds upon the ability to ask & translate biomedical questions into math and the skills to develop new image processing workflows using deep learning, among others. 
+These are the different works that brought me the chance to get such skills and prove myself as a scientist:
 
 **Cell motility**. During my doctorate, I studied cell motility in 3D mesenchymal cell migration. 
 I'm particularly interested in deciphering the role of the dendritic protrusions formed by the cells to produce contractile movements. 
