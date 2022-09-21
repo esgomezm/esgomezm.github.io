@@ -6,7 +6,7 @@ subtitle: <a href='https://gulbenkian.pt/ciencia/research-groups/rhenriques/'>Op
 
 profile:
   align: right
-  image: paris-os.jpeg
+  image: profile_1.jpeg #paris-os.jpeg
   image_circular: false # crops the image to make it circular
   address: 
 
