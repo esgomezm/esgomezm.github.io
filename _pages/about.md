@@ -18,6 +18,7 @@ social: true  # includes social icons at the bottom of the page
 Welcome!
 I'm a postdoctoral researcher in [Prof. Ricardo Henriques' group](https://henriqueslab.github.io/) at [Instituto Gulbenkian de Ciência](https://gulbenkian.pt/ciencia/) in Portugal. 
 If you want to know more about the research projects I'm involved in, please visit the lab's webpage. 
+This site is pretended to gather my research experience, publications and the different content that I have created.
 
 ### Who am I?
 I'm a woman researchers passionated about **Math** (parallels may intersect, read Riemmann, or let's chat with a pen and a balloon), (Pseudo-)**Living systems** (let's not discriminate viruses) and **Visual information-communication** (art, photography, drawing). 
