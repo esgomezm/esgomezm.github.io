@@ -23,9 +23,9 @@ This site is only pretended to gather my experience and share the different cont
 ### Who am I?
 I'm a woman researchers passionated about **Math** (parallels may intersect, read Riemmann, or let's chat with a pen and a balloon), (Pseudo-)**Living systems** (let's not discriminate viruses) and **Visual information-communication** (art, photography, drawing). 
 So biomedical imaging felt as the perfect match from the very first moment I got into Science.
-Basically, I love combining my knowledge in mathematics and computer sciences with biomedical images to write new stories. 
+Basically, I love combining mathematics and computer sciences with biomedical imaging to write new stories. 
 
-My research interests focus on
+[My research](/esgomezm.github.io/myresearch/) interests focus on
 1. Contributing to biological discoveries by exploiting image processing techniques
 2. Facing current challenges in the intersection between Artificial Intelligence and microscopy imaging.
 
