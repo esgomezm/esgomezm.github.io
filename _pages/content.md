@@ -1,15 +1,15 @@
 ---
 layout: page
-title: content
+title: Content
 permalink: /_content/
 description: A growing collection of science-related content.
 nav: true
 nav_order: 4
-display_categories: [blog, work, drawing science]
+display_categories: [blog, teaching, drawing science]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/content.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
