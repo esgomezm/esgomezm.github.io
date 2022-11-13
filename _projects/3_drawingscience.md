@@ -3,7 +3,6 @@ layout: page
 title: Drawing science
 description: The drawings here are freely distributed. Do not forget to include the corresponding citation or credit when specified. 
 img: assets/img/drawing_science/messenchymal-evs.png
-redirect: https://unsplash.com
 importance: 2
 category: drawing science
 ---
