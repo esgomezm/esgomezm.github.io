@@ -1,9 +1,9 @@
 ---
 layout: page
-title: women in science
+title: Women in science
 description: 
 img: assets/img/women_science.png
-importance: 1
+importance: 3
 category: blog
 ---
 

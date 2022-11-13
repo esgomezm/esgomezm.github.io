@@ -5,7 +5,7 @@ permalink: /_content/
 description: A growing collection of science-related content.
 nav: true
 nav_order: 4
-display_categories: [blog, teaching, drawing science]
+display_categories: [teaching, drawing science, blog]
 horizontal: false
 ---
 
