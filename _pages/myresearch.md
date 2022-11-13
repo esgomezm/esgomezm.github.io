@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 description: 
 nav: true
-nav_order: 4
+nav_order: 1
 ---
 
 My contributions build upon the ability to ask & translate biomedical questions into math, and the skills to develop new image processing workflows using deep learning, among others. 
