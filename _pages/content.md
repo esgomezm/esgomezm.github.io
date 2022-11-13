@@ -6,7 +6,7 @@ description: A growing collection of science-related content.
 nav: true
 nav_order: 4
 display_categories: [teaching, drawing science, blog]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/content.md -->
