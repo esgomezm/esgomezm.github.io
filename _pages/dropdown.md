@@ -6,11 +6,14 @@ nav_order: 6
 dropdown: true
 children: 
     - title: Graphical content
-      permalink: /graphcontent/
-    - title: divider
-    - title: Teaching
-      permalink: /teaching/
+      permalink: /drawingscience/
     - title: divider
     - title: Women in Science
+      permalink: /womenscience/
+    - title: divider
+    - title: Food in Lisbon
+      permalink: /portugal/
+    - title: divider
+    - title: Teaching
       permalink: /teaching/
 ---
