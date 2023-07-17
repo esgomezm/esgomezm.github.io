@@ -14,6 +14,7 @@ Note that Portuguese food usually has fish or meat.
 - Alfama (there are plenty of cute places to sit around):
   - [Ourices Petisqueria](https://goo.gl/maps/ct9BrsETgEuPmUPJ9) (typical bites&tapas with sangria)
   - [Paladarium](https://goo.gl/maps/FrtDUxa4m8k1un9D6)
+  - [O velho Eurico](https://goo.gl/maps/rY31wKFN4KYA9LtF8)
 
 - Chafariz do Carmo & Bairro de Avillez
   - [Duque](https://goo.gl/maps/2YjaEefbHxoTtFvK6). One of my favourite ones. A sweet little spot that I strongly recommend going early. It can rarely be booked, so if you are urgently needing to sit down, don't go here.
