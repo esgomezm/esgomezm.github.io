@@ -93,7 +93,8 @@ There are plenty of terraces, particularly in spring&summer, so you'll find plac
 - Zé dos Bois gallery (artistic rooftop. opens after 18.00) (https://goo.gl/maps/B1YXYsyDiDBUQVPaA)
 - Park Rooftop (https://goo.gl/maps/XLnTJXqAKCgRZrzJ6)
 - IDB Lisbon – Innovation & Design Building Lisbon (https://goo.gl/maps/yF5kSFdAp3VkHD569)
-- 
+
+
 #### Alcântara:
 - Go A Lisboa Rooftop - Restaurant & Bar (https://goo.gl/maps/Aiw3uaVuV1ujSV3r6)
 - Okah (rooftop) (https://goo.gl/maps/n1sNcgjeguMJwupj6)
