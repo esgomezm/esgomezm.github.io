@@ -83,7 +83,7 @@ You can find some touristic spots in Bairro Alto easily. However, the Alfama are
   - [Alkimia Madeirense Carcavelos](https://goo.gl/maps/1aAt1vj7DyWCrwYW7). High quality but expensive.
   - [Bafureira Club](https://goo.gl/maps/vns1DJCsWzdyBsM67). Sushi, beautiful view.
   - [Adamastor](https://goo.gl/maps/8ethYLUtkLjsj8BN9). Beautiful terrace in front of the sea with live music and local beer.
-
+  - [Izakaya Cascais](https://goo.gl/maps/cbCE2TDpeCN2QNLd8). Japanese modern restaurant. If you like seeing the making-up & kitchens and don't mind sitting in the bar, this is a place to go. A bit pricey but the food is good and the atmosphere is worth it.
 
 ### Nice terraces for a drink
 There are plenty of terraces, particularly in spring&summer, so you'll find places everywhere. These are nice.
@@ -113,7 +113,8 @@ There are plenty of terraces, particularly in spring&summer, so you'll find plac
   - [COMOBA](https://maps.app.goo.gl/1GmzqofaPUrXpWrn9)
   - [Melbourne elouera](https://maps.app.goo.gl/b4H6NNALrZxnUxAFA)
   - [Cotidiano Lisboa](https://maps.app.goo.gl/VaGFi4w1A11L2xLe9)
-
+  - [Dear Breakfast - Chiado](https://goo.gl/maps/WZyWTLtTHgWUqJEY9). If you get the spot close to the windows, you have a nice portrait to Lisbon streets.
+ 
 - Oeiras, Paço de Arcos, Carcavelos
   - [Carolina Sales Café](https://goo.gl/maps/G7uJtmTEKg7x2fMk8). Sweet brazilian café in Paço de Arcos, it has low caloric, proteic, non-sugary options. A bit expensive for the area though.
   - [Lutece Fabrico Artesanal](https://goo.gl/maps/LgLZneRGVKjTWUFd6). Paço de Arcos, good coffee, great cakes also to book for a birthday.
