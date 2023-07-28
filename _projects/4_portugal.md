@@ -77,8 +77,9 @@ You can find some touristic spots in Bairro Alto easily. However, the Alfama are
   - [Mediactico](https://goo.gl/maps/vn49gJJQzRpBVGE6A). Highly recommended, very good wines are Monte Carochina and Arinto de Acores.
 
   - [Farès](https://maps.app.goo.gl/UWo78o5sPfhqPyjUA) (Arabic)
-  - [Yallah](https://goo.gl/maps/xx8FBCvHvfKWUYcw7) (Middle East food. Yallah is highly recommended)
+  - [Yallah](https://goo.gl/maps/xx8FBCvHvfKWUYcw7) (Middle East food. The yallah dish is recommended)
   - [Coyo Taco](https://maps.app.goo.gl/Srm2CZdqKxS4KpQQ8). The one in Cais do Sodré.
+
 
 - Oeiras, Carcavelos and Cascais
   - [Temperature](https://goo.gl/maps/z3PtX7hgmA3A9tQY6) Fancy & expensive, with veggie options.
