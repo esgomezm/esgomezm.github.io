@@ -2,7 +2,7 @@
 layout: page
 title: Restaurants in Lisbon area
 description: This is a contribution to food lovers and those who have guests & visitors in Lisbon area =)
-img: 
+img: assets/img/portugal/marques.jpeg
 importance: 3
 category: visit lisbon
 ---
@@ -25,7 +25,7 @@ Note that Portuguese food usually has fish or meat.
   - [Cabaças](https://goo.gl/maps/RbRrMRphEakB9Kxa8)
 
 - Santos:
-  - [Taberna da Esperança](https://goo.gl/maps/QX9MMi5oc89ivh9S8). Santos area, and yet another sweet spot. Needs previous booking during the weekend.
+  - [Taberna da Esperança](https://goo.gl/maps/QX9MMi5oc89ivh9S8). Santos area, and yet another sweet spot. Needs booking during the weekend.
   - [Frade dos Mares](https://goo.gl/maps/Jaigfb5H1urU4ddr8). Updated local food.
   - [Os Bons Malandros](https://goo.gl/maps/U3Qcno8cPwEXm3A47). Really local, it has even *bifanas* (pork meat sandwich).
 
@@ -36,13 +36,14 @@ Note that Portuguese food usually has fish or meat.
 
 - Caxias & Paço de Arcos & Oeiras & Carcavelos & Cascais
   - [Mercearia do Peixe](https://goo.gl/maps/wwTgiTGiSFkpJssZ6). Fresh fish, choose the piece.
-  - [Quitanda Centro Naútico](https://goo.gl/maps/PfFtas2oxiFiLgGL6). Ffresh fish, choose the piece.
+  - [Quitanda Centro Naútico](https://goo.gl/maps/PfFtas2oxiFiLgGL6). Fresh fish, choose the piece.
   - [Caçoila](https://goo.gl/maps/9FiDMdUWmQy3qfPa6). Nice traditional spot with very good service, cozy and a cute terrace.
   - [O Pombalino](especially for cocido) (https://goo.gl/maps/GKynJbdxDRDyF2bVA)
   - [Confraria do Polvo](https://goo.gl/maps/GyNbrPCocRV1cgbL6) (octopus) 
   - [Brasa de Sassoeiros](https://goo.gl/maps/FFi8GMu5RAUCgeVT7)
   - [Charkoal](https://goo.gl/maps/MMqPi9YS722NvYUE6)
   - [Cantinho da Guia](https://goo.gl/maps/TvDmgTrFcJeoYhxn7)
+  - [O Relento](https://goo.gl/maps/dknmsx4NatJX6yNRA) Seafood & beer. Good quality.
 
 - Trafaria (other side of the river)
   - [Casa Ideal](https://goo.gl/maps/FpN9XWFQbCcZU4xB6). Fresh fish.
@@ -76,6 +77,7 @@ You can find some touristic spots in Bairro Alto easily. However, the Alfama are
   - [Mediactico](https://goo.gl/maps/vn49gJJQzRpBVGE6A). Highly recommended, very good wines are Monte Carochina and Arinto de Acores.
 
   - [Farès](https://maps.app.goo.gl/UWo78o5sPfhqPyjUA) (Arabic)
+  - [Yallah](https://goo.gl/maps/xx8FBCvHvfKWUYcw7) (Middle East food. Yallah is highly recommended)
   - [Coyo Taco](https://maps.app.goo.gl/Srm2CZdqKxS4KpQQ8). The one in Cais do Sodré.
 
 - Oeiras, Carcavelos and Cascais
