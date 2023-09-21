@@ -6,16 +6,21 @@ importance: 1
 category: teaching
 ---
 
-# Workshops
 
-- Spanish Portuguese Meeting for Advanced Optical Microscopy, **SPAOM 2018**, Granada, Spain
-I. Arganda-Carreras, E. Gómez de Mariscal, A. Muñoz-Barrutia, S. Tosi
-[Workshop 5: Machine Learning - Deep Learning. Applications to Bioimage Analysis.](https://raw.githubusercontent.com/esgomezm/esgomezm.github.io/master/assets/pdf/SPAOM2018/MachineLearning_SPAOMworkshop_public.pdf)
+
+# Workshops & courses
+
+- Switzerland's Image and Data Analysis School [(ZIDAS) 2020](https://2020.zidas.org/),
+[*Introduction to Deep Learning*](https://github.com/esgomezm/zidas2020_intro_DL)
 
 - **4th NEUBIAS Training School for Bioimage Analysts** (TS15), Bordeaux 2020. 
 *Confronting p-hacking: addressing p-value dependence on sample size*
   - [Slides and materials](https://github.com/miura/NEUBIAS_AnalystSchool2020/tree/master/Estibaliz)
   - [Recorded workshop](https://www.youtube.com/watch?v=Uw_MgVI6Ozk&t=1089s)
+
+- Spanish Portuguese Meeting for Advanced Optical Microscopy, **SPAOM 2018**, Granada, Spain
+I. Arganda-Carreras, E. Gómez de Mariscal, A. Muñoz-Barrutia, S. Tosi
+[Workshop 5: Machine Learning - Deep Learning. Applications to Bioimage Analysis.](https://raw.githubusercontent.com/esgomezm/esgomezm.github.io/master/assets/pdf/SPAOM2018/MachineLearning_SPAOMworkshop_public.pdf)
 
 
 # Seminars
