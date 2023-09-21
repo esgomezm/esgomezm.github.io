@@ -5,9 +5,6 @@ nav: false
 nav_order: 6
 dropdown: true
 children: 
-    - title: Graphical content
-      permalink: /drawingscience/
-    - title: divider
     - title: Women in Science
       permalink: /womenscience/
     - title: divider
@@ -16,4 +13,7 @@ children:
     - title: divider
     - title: Teaching
       permalink: /teaching/
+    - title: divider
+    - title: Graphical content
+      permalink: /drawingscience/
 ---
