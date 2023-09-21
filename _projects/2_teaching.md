@@ -28,8 +28,3 @@ I. Arganda-Carreras, E. Gómez de Mariscal, A. Muñoz-Barrutia, S. Tosi
 - *New insights on 3D cell migration through the study of cellular protrusions*, Madrid Seminars on Mechanobiology, 2019
 E. Gómez de Mariscal, A. Muñoz-Barrutia
 [Watch the seminar](https://media.uc3m.es/series/5de0fe328f42089d8d8b4569)
-
-- *New insights on 3D cell migration through the study of cellular protrusions*, Madrid Seminars on Mechanobiology, 2019
-E. Gómez de Mariscal, A. Muñoz-Barrutia
-[Watch the seminar](https://media.uc3m.es/series/5de0fe328f42089d8d8b4569)
-
