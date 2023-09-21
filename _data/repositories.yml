@@ -3,13 +3,12 @@ github_users:
   - deepimagej
 
 github_repos:
-  - BIIG-UC3M/pMoSS
+  - BSEL-UC3M/pMoSS
   - esgomezm/microscopy-dl-suite-tf
   - deepimagej/deepimagej-plugin
   - deepimagej/models
   - HenriquesLab/ZeroCostDL4Mic
   - HenriquesLab/DeepBacs
-  - deepimagej/deepimagej
   - BIIG-UC3M/FRU-Net-TEM-segmentation
   - bioimage-io/bioimage.io
   - bioimage-io/spec-bioimage-io
