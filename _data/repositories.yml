@@ -1,16 +1,12 @@
 github_users:
   - esgomezm
   - deepimagej
-
 github_repos:
+  - HenriquesLab/DL4MicEverywhere
+  - HenriquesLab/ZeroCostDL4Mic
   - BSEL-UC3M/pMoSS
   - esgomezm/microscopy-dl-suite-tf
-  - deepimagej/deepimagej-plugin
-  - deepimagej/models
-  - HenriquesLab/ZeroCostDL4Mic
   - HenriquesLab/DeepBacs
   - BIIG-UC3M/FRU-Net-TEM-segmentation
   - bioimage-io/bioimage.io
   - bioimage-io/spec-bioimage-io
-  - deepimagej/tensorflow-js-models
-  - deepimagej/pydeepimagej
