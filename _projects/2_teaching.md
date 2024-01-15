@@ -9,12 +9,13 @@ category: teaching
 
 
 # Workshops & courses
-
+- **Al enhanced microscopy imaging: challenges and perspectives**, ANERIS project workshop "AI basics for image processing", December 2023. [Recorded workshop](https://youtu.be/DN6Ef9zaofo?si=4j-SS3Zpl2RHEAy)
+  
 - Switzerland's Image and Data Analysis School [(ZIDAS) 2020](https://2020.zidas.org/),
 [*Introduction to Deep Learning*](https://github.com/esgomezm/zidas2020_intro_DL)
 
-- **4th NEUBIAS Training School for Bioimage Analysts** (TS15), Bordeaux 2020. 
-*Confronting p-hacking: addressing p-value dependence on sample size*
+- **Confronting p-hacking: addressing p-value dependence on sample size**, 4th NEUBIAS Training School for Bioimage Analysts (TS15), Bordeaux 2020. 
+
   - [Slides and materials](https://github.com/miura/NEUBIAS_AnalystSchool2020/tree/master/Estibaliz)
   - [Recorded workshop](https://www.youtube.com/watch?v=Uw_MgVI6Ozk&t=1089s)
 
