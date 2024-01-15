@@ -7,6 +7,6 @@ github_repos:
   - BSEL-UC3M/pMoSS
   - esgomezm/microscopy-dl-suite-tf
   - HenriquesLab/DeepBacs
-  - BIIG-UC3M/FRU-Net-TEM-segmentation
+  - BSEL-UC3M/FRU-Net-TEM-segmentation
   - bioimage-io/bioimage.io
   - bioimage-io/spec-bioimage-io
