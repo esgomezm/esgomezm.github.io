@@ -9,6 +9,8 @@ category: teaching
 
 
 # Workshops & courses
+
+- Gómez de Mariscal E. [**FAIRy deep-learning for bioImage analysis**, F1000Research, 2024](https://doi.org/10.7490/f1000research.1119703.1)
 - **Al enhanced microscopy imaging: challenges and perspectives**, ANERIS project workshop "AI basics for image processing", December 2023. [Recorded workshop](https://youtu.be/DN6Ef9zaofo?si=4j-SS3Zpl2RHEAy)
 - **Introduction to image analysis for microscopy.** (From theory into practice) Fundamentals of light microscopy and image processing, ITQB - Nova, September 2023:
   - <iframe width="560" height="315" src="https://www.youtube.com/embed/WO9iRRnN6BA?si=3vUSAjECR5_JHLDS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"   allowfullscreen></iframe>  

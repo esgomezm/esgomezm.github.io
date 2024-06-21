@@ -1,12 +1,16 @@
 github_users:
   - esgomezm
   - deepimagej
+  -
 github_repos:
   - HenriquesLab/DL4MicEverywhere
   - HenriquesLab/ZeroCostDL4Mic
   - BSEL-UC3M/pMoSS
   - esgomezm/microscopy-dl-suite-tf
+  - CellMigrationLab/CellTracksColab
   - HenriquesLab/DeepBacs
-  - BSEL-UC3M/FRU-Net-TEM-segmentation
   - bioimage-io/bioimage.io
   - bioimage-io/spec-bioimage-io
+  - bioimage-io/core-bioimage-io
+  - BSEL-UC3M/FRU-Net-TEM-segmentation
+

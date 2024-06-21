@@ -18,18 +18,19 @@ social: true  # includes social icons at the bottom of the page
 Welcome!
 I'm a postdoctoral researcher in [Prof. Ricardo Henriques' group](https://henriqueslab.org/) at [Instituto Gulbenkian de Ciência](https://gulbenkian.pt/ciencia/) in Portugal. 
 If you want to know more about the ongoing research projects I'm involved in, please visit the lab's webpage. 
-This site is meant to gather my experience and share the different content that I'm creating.
+This site is meant to detail my experience as a researcher and share different content.
 
 ### Who am I?
 I'm a researcher passionate about **Math** (parallels may intersect: read Riemmann or let's chat with a pen and a balloon), (Pseudo-)**Living systems** (are viruses alive?) and **Visual information-communication** (art, photography, drawing). 
 So biomedical imaging felt like the perfect match from the very first moment I got into science.
 Basically, I love combining mathematics and computer sciences with biomedical imaging to write new stories. 
+Find more information in the [interview with Focal Plane](https://focalplane.biologists.com/2024/02/27/an-interview-with-estibaliz-gomez-de-mariscal/).
 
 [My research](/research/) interests focus on
-1. Contributing to biological discoveries by exploiting image processing techniques.
-2. Facing current challenges in the intersection between Artificial Intelligence and microscopy imaging.
+1. Contributing to image driven biological discoveries.
+2. Facing current challenges in the intersection between Artificial Intelligence and Microscopy imaging.
 
-I'm yet another crazy researcher who believes that science builds upon the effort of the community (i.e., *us*) to disseminate advances and that its growth relies on responsible collaborations. As such, contributing to a more accessible science (reusable, open, and/or user-friendly) is part of my dedication and spirit.
+Importantly, I'm yet another crazy researcher who believes that science builds upon the effort of the community (i.e., *us*) to disseminate advances and that its growth relies on responsible collaborations. As such, contributing to a more accessible science (reproducible, open, FAIR and/or user-friendly) is part of my dedication and spirit.
 
 ### Academic gossipping
 I graduated in Mathematics at the Universidad del País Vasco (UPV/EHU) in 2014 and also studied at the University of Copenhagen, Denmark in 2012 as an ERASMUS student.

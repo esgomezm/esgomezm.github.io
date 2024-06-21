@@ -5,7 +5,7 @@ permalink: /content/
 description: A growing collection of science-related content (also for visitors to Portugal).
 nav: true
 nav_order: 4
-display_categories: [blog, teaching, visit lisbon, drawing science]
+display_categories: [teaching, visit lisbon, blog, drawing science]
 horizontal: false
 ---
 
