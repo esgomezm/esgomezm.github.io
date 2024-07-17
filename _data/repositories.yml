@@ -4,10 +4,11 @@ github_users:
   -
 github_repos:
   - HenriquesLab/DL4MicEverywhere
+  - HenriquesLab/PhotoFiTT
   - HenriquesLab/ZeroCostDL4Mic
   - BSEL-UC3M/pMoSS
-  - esgomezm/microscopy-dl-suite-tf
   - CellMigrationLab/CellTracksColab
+  - esgomezm/microscopy-dl-suite-tf
   - HenriquesLab/DeepBacs
   - bioimage-io/bioimage.io
   - bioimage-io/spec-bioimage-io
