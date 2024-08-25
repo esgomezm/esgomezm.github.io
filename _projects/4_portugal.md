@@ -24,6 +24,12 @@ Note that Portuguese food usually has fish or meat.
   - [The Old Pharmacy](https://goo.gl/maps/iqC6spjQeNpnCRXB7). A cute winery with little beats.
   - [Cabaças](https://goo.gl/maps/RbRrMRphEakB9Kxa8)
 
+- Praça de Espanha e Fundação Calouste Gulbenkian
+  - [Luzboa](https://maps.app.goo.gl/XiNDqbmazC7JjSDe6) Tiny but cute, the palce to go if you find local decoration interesting and you don't mind eating tasty food with other people sitting close to you.
+  - [Laurentina](https://maps.app.goo.gl/vX7xs2z2rsMqqKoz5) Very famous for its Bacalhau (Cod fish). It's an elegant place to go so it may get pricy.
+  - [Jaguar](https://maps.app.goo.gl/BP1PkdC6wPncNDbv6) Highly recommended by locals. Not fancy but tasty.
+  - [A Minha Avó - Vegan Portuguese Food](https://maps.app.goo.gl/SYCKhXPvY5PrDehx6) VEGAN but inspired by the most traditional Portuguese food.
+  
 - Santos:
   - [Taberna da Esperança](https://goo.gl/maps/QX9MMi5oc89ivh9S8). Santos area, and yet another sweet spot. Needs booking during the weekend.
   - [Frade dos Mares](https://goo.gl/maps/Jaigfb5H1urU4ddr8). Updated local food.
@@ -62,6 +68,7 @@ Note that Portuguese food usually has fish or meat.
 - [Ao 26](https://maps.app.goo.gl/jJjNqZhnUDnEQjTz8). Highly recommended.
 - [PSI](https://maps.app.goo.gl/snhrs7K9t7SPwAjq5)
 - [O Botanista (Ortea)](https://maps.google.com/?cid=2641190773314766674)
+- [A Minha Avó - Vegan Portuguese Food](https://maps.app.goo.gl/SYCKhXPvY5PrDehx6) VEGAN but inspired by the most traditional Portuguese food.
 
 ### Fado:
 You can find some touristic spots in Bairro Alto easily. However, the Alfama area and its little spots are more authentic:
@@ -85,6 +92,7 @@ You can find some touristic spots in Bairro Alto easily. However, the Alfama are
   - [Da Wanmian](https://goo.gl/maps/7SHEcnutA66xRJGn8). Authentic humble chinesse cheap familiar local, also called the illegal.
   - [Boa-Bao](https://maps.app.goo.gl/VrjDhzAaLyq5RQ1B8). Asian, a bit expensive. 
   - [Mediactico](https://goo.gl/maps/vn49gJJQzRpBVGE6A). Highly recommended, very good wines are Monte Carochina and Arinto de Acores.
+  - [Ground Burger](https://maps.app.goo.gl/P2qjXTsxbHpgbbd46) Personally, one of the best burgers in the city and it has international&artesanal drafted beer.
 
   - [Farès](https://maps.app.goo.gl/UWo78o5sPfhqPyjUA) (Arabic)
   - [Yallah](https://goo.gl/maps/xx8FBCvHvfKWUYcw7) (Middle East food. The yallah dish is recommended)
