@@ -34,6 +34,9 @@ Note that Portuguese food usually has fish or meat.
   - Rua da Boavista
   - Praça de São Paulo
 
+- Benfica
+  - [Paço de Carnide](https://maps.app.goo.gl/VjqaHPEVup9i3tdf8) Ember cuisine, specially meat.
+
 - Caxias & Paço de Arcos & Oeiras & Carcavelos & Cascais
   - [Mercearia do Peixe](https://goo.gl/maps/wwTgiTGiSFkpJssZ6). Fresh fish, choose the piece.
   - [Quitanda Centro Naútico](https://goo.gl/maps/PfFtas2oxiFiLgGL6). Fresh fish, choose the piece.
@@ -44,6 +47,12 @@ Note that Portuguese food usually has fish or meat.
   - [Charkoal](https://goo.gl/maps/MMqPi9YS722NvYUE6)
   - [Cantinho da Guia](https://goo.gl/maps/TvDmgTrFcJeoYhxn7)
   - [O Relento](https://goo.gl/maps/dknmsx4NatJX6yNRA) Seafood & beer. Good quality.
+
+- Parede & Estoril
+  - [Surpresa](https://maps.app.goo.gl/sKQB814DQRG3hNWLA). Fresh fish on a terrace in a nice beach.
+  - [Boteco da Linha](https://maps.app.goo.gl/kG8pBLKRFxxYYsGSA). Cute and peaceful with tasty "petiscos". It has a small terrace as well.
+  - [Eduardo das Conquilhas](https://maps.app.goo.gl/e9pqyuZdHFYzLhny8). Famous for its seafood.
+
 
 - Trafaria (other side of the river)
   - [Casa Ideal](https://goo.gl/maps/FpN9XWFQbCcZU4xB6). Fresh fish.
@@ -63,6 +72,7 @@ You can find some touristic spots in Bairro Alto easily. However, the Alfama are
   - [Zappi](https://goo.gl/maps/GAUQQsSfsyyGv7mB9). Good pizza with natural ingredients. You can taste it with the tomato sauce of a Margarita.
   - [Retrogusto experience](https://goo.gl/maps/VkvxFJ6zYf7kNsKYA). Good pizza.
   - [Lupita](https://maps.app.goo.gl/F2GEoSzMDGN4x6C87). Quite crowded, but it's one of the best pizzas in the city.
+  - [Come Prima](https://maps.app.goo.gl/gFu3iw94hsXrtrXR8) Traditional italian restaurant. It's more known for it's pasta and risotto. Book a table before going there. 
 
   - [Sushisan Santos](https://goo.gl/maps/6ongxKPHWkoxnYHU6). Good quality/price balance. All you can eat.
   - [Trickys](https://goo.gl/maps/Gu7vfRfA1NGrMvQq6). Modern food, good music, seasonal products. Book with enough time in advance.
@@ -88,7 +98,8 @@ You can find some touristic spots in Bairro Alto easily. However, the Alfama are
   - [Bafureira Club](https://goo.gl/maps/vns1DJCsWzdyBsM67). Sushi, beautiful view.
   - [Adamastor](https://goo.gl/maps/8ethYLUtkLjsj8BN9). Beautiful terrace in front of the sea with live music and local beer.
   - [Izakaya Cascais](https://goo.gl/maps/cbCE2TDpeCN2QNLd8). Japanese modern restaurant. If you like seeing the making-up & kitchens and don't mind sitting in the bar, this is a place to go. A bit pricey but the food is good and the atmosphere is worth it.
-
+  - [Aji Limo Peruvian Pisco&Bar](https://maps.app.goo.gl/g6dsssEWEj8FEkTQA). Traditional perubian, very familiar.
+  - 
 ### Nice terraces for a drink
 There are plenty of terraces, particularly in spring&summer, so you'll find places everywhere. These are nice.
 
@@ -104,7 +115,6 @@ There are plenty of terraces, particularly in spring&summer, so you'll find plac
 
 
 - Alcântara:
-  - [Go A Lisboa Rooftop - Restaurant & Bar](https://goo.gl/maps/Aiw3uaVuV1ujSV3r6)
   - [Okah (rooftop)](https://goo.gl/maps/n1sNcgjeguMJwupj6)
   - [Café o Corvo](https://maps.app.goo.gl/NKZ4N2KnnjvNonmF7) An alternative for brunch as well.
   - [Mama Shelter Lisbon (rooftop)](https://maps.app.goo.gl/3R2nawVVW9izMMQJ6)
