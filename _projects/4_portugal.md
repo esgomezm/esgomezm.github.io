@@ -100,7 +100,6 @@ You can find some touristic spots in Bairro Alto easily. However, the Alfama are
 
 
 - Oeiras, Carcavelos and Cascais
-  - [Temperature](https://goo.gl/maps/z3PtX7hgmA3A9tQY6) Fancy & expensive, with veggie options.
   - [La Plage](https://goo.gl/maps/Kk6sZB2GgDKUTzYy8) In the beach with a nice view.
   - [Alkimia Madeirense Carcavelos](https://goo.gl/maps/1aAt1vj7DyWCrwYW7). High quality but expensive.
   - [Bafureira Club](https://goo.gl/maps/vns1DJCsWzdyBsM67). Sushi, beautiful view.
@@ -146,10 +145,10 @@ There are plenty of terraces, particularly in spring&summer, so you'll find plac
 ### Cocktail bars (welcome to a hot topic in Lisbon :) )
 - [Pavilhão Chinês](https://goo.gl/maps/sxTrZ6bU93xiHWxS8). Among the oldest and most authentic in Lisbon. Full of good quality drinks and cocktails.
 - [Foxtrot](https://goo.gl/maps/tZUmSu4Kz7XLzRLE7). Old English-style cocktail bar with a wide variety of good drinks and pool table.
-- [O bar Mais Triste da Cidade](https://goo.gl/maps/Da52gYMhYySx6CB89) Live music sometimes. Private. Like it quite a lot.
 - [Pensão Amor](https://goo.gl/maps/k443Sd4C2WqnTJaZ9)
 - [Toca da Raposa](https://goo.gl/maps/e8qmHkaBtFvUsJrm6)
 - [TOPO MARTIM MONIZ (**rooftop**)](https://goo.gl/maps/gVjDy4MdvUmhEj5PA)
 - [Copa Barrafina and Social B](https://goo.gl/maps/6L355GEzdSa3dhYF9) (interesting & alternative)
 - [Majong](https://goo.gl/maps/gSjsQD6HsbH6RgaP7)
 - [Musa da Bica](https://maps.app.goo.gl/HtDs5UdEADHGQYdE7)
+- Principe Real area: Totally recommended for a less turistic and still very pleasant places. It has different cocktails and terraces around. Also, some particular recovered palaces like EmbaiXada shopping center!
