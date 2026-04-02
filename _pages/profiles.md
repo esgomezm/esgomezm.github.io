@@ -1,9 +1,9 @@
 ---
 layout: profiles
 permalink: /people/
-title: AIM4BioMeD team
+title: team
 description: Lab members
-nav: true
+nav: false
 nav_order: 7
 
 profiles:

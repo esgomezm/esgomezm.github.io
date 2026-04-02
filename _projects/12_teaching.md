@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /teaching/
 title: Teaching content and materials
 description: Here you will find some links to open-source content related to image analysis and biostatistics workshops
 importance: 1
