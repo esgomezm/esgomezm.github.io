@@ -7,8 +7,6 @@ importance: 1
 category: teaching
 ---
 
-
-
 # Workshops & courses
 
 - Gómez de Mariscal E. [**FAIRy deep-learning for bioImage analysis**, F1000Research, 2024](https://doi.org/10.7490/f1000research.1119703.1)

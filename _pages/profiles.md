@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: profile_1.jpeg
-    content: about_egm.md
+    content: members/about_egm.md
     image_circular: false # crops the image to make it circular
     #more_info: >
     #  <p>555 your office number</p>
