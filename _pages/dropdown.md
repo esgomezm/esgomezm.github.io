@@ -5,12 +5,12 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
-  - title: divider
-  - title: projects
-    permalink: /projects/
-  - title: divider
-  - title: blog
-    permalink: /blog/
+    - title: Women in Science
+      permalink: /womenscience/
+    - title: divider
+    - title: Food in Lisbon
+      permalink: /portugal/
+    - title: divider
+    - title: Teaching
+      permalink: /teaching/
 ---
