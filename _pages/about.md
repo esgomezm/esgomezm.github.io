@@ -2,24 +2,41 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://henriqueslab.org/'>AI-driven Optical Biology</a>, <a href='https://www.itqb.unl.pt/'>Instituto de Tecnología Química e Biología, Antonio Xavier, ITQB</a> - <a href='https://gimm.pt/'>Gulbenkian Institute for Molecular Medicine</a>, Oeiras, Portugal
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_1.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
+  #  <p>555 your office number</p>
+  #  <p>123 your address street</p>
+  #  <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome!
+I'm a postdoctoral researcher in [Prof. Ricardo Henriques' group](https://henriqueslab.org/) at [ITQB NOVA](https://www.itqb.unl.pt/) in Portugal. 
+If you want to know more about the ongoing research projects I'm involved in, please visit the lab's webpage. 
+This site is meant to detail my experience as a researcher and share different content.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+### Who am I?
+I'm a researcher passionate about **Math** (parallels may intersect: read Riemann or let's chat with a pen and a balloon), (Pseudo-)**Living systems** (are viruses alive?) and **Visual information-communication** (art, photography, drawing). 
+So biomedical imaging felt like the perfect match from the very first moment I got into science.
+Basically, I love combining mathematics and computer sciences with biomedical imaging to write new stories. 
+Find more information in the [interview with Focal Plane](https://focalplane.biologists.com/2024/02/27/an-interview-with-estibaliz-gomez-de-mariscal/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+[My research](/research/) interests focus on
+1. The intersection between Artificial Intelligence and Microscopy imaging.
+1. Avancing Image-driven BioMedical Discovery.
+
+Importantly, I'm yet another crazy researcher who believes that science builds upon the effort of the community (i.e., *us*) to disseminate advances and that its growth relies on responsible collaborations. As such, contributing to a more accessible science (reproducible, open, FAIR and/or user-friendly) is part of my dedication and spirit.
+
+### Academic gossip
+I graduated in Mathematics at the Universidad del País Vasco (UPV/EHU) in 2014 and also studied at the University of Copenhagen, Denmark in 2012 as an ERASMUS student.
+In 2016, I obtained my M.Sc. in Statistical and Computational Data Processing from the Universidad Complutense de Madrid and Universidad Politécnica de Madrid. 
+I defended my PhD in Mathematical Engineering supervised by Prof. Arrate Muñoz Barrutia and Prof. Denis Wirtz (Johns Hopkins University) in 2021 at Universidad Carlos III de Madrid in Spain. During my thesis, I was a visiting fellow in the Computer Vision Group lead by Prof. Thomas Brox at the University of Freiburg and the Biomedical Imaging Group led by Prof. Michael Unser at EPFL, Lausanne. Currently, I'm a postdoc an EMBO Postdoctoral fellowship in Prof. Ricardo Henriques Lab at Instituto Gulbenkian de Ciência in Oeiras, Portugal.
+[publications.md](publications.md)
