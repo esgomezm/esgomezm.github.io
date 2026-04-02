@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /womenscience/
 title: Women in science
 description: 
 img: assets/img/women_science.png

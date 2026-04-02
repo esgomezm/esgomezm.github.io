@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /food/
 title: Restaurants in Lisbon area
 description: This is a contribution to food lovers and those who have guests & visitors in Lisbon area =)
 img: assets/img/portugal/belem1.jpeg
