@@ -1,14 +1,17 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - esgomezm
+  - deepimagej
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - HenriquesLab/ReScale4DL
+  - HenriquesLab/DL4MicEverywhere
+  - HenriquesLab/PhotoFiTT
+  - CellMigrationLab/CellTracksColab
+  - HenriquesLab/ZeroCostDL4Mic
+  - BSEL-UC3M/pMoSS
+  - esgomezm/microscopy-dl-suite-tf
+  - HenriquesLab/DeepBacs
+  - bioimage-io/bioimage.io
+  - BSEL-UC3M/FRU-Net-TEM-segmentation
