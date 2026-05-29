@@ -29,3 +29,7 @@ We collaborate closely with researchers across diverse disease areas, including 
 A core principle in our group is that science builds upon the effort of the community (i.e., *us*) to disseminate advances and that its growth relies on responsible collaborations. As such, contributing to a more accessible science is part of our dedication and spirit. Alongside our research, we develop open, accessible and reproducible tools that enable the broader community to analyse and interpret biological imaging data. Ultimately, our goal is to develop transformative methodologies to support a more quantitative, predictive and integrative approach to biomedical discovery. 
 
 In the lab, we are committed to fostering an inclusive and collaborative scientific environment that encourages creativity, diversity and out-of-the-box thinking. We believe that different backgrounds, perspectives and ways of thinking are essential drivers of innovation and discovery.
+
+If you would like to join our group (PhD, MSc, postdoc), please reach out by email. I would also be happy to discuss and support funding applications for joining the lab (e.g., EMBO, MSCA, FCT). 
+
+🚨 *Open call for PhD students until June 5th:* https://nimsb.unl.pt/education-training-page/
