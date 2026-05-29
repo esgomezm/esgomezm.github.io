@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: team
-description: Lab members
+title: Lab members
+description: 
 nav: true
 nav_order: 7
 
@@ -13,8 +13,8 @@ profiles:
     image: profile_1.jpeg
     content: members/about_egm.md
     image_circular: false # crops the image to make it circular
-    #more_info: >
-    #  <p>555 your office number</p>
+    more_info: >
+      <p>Group leader</p>
     #  <p>123 your address street</p>
     #  <p>Your City, State 12345</p>
 #  - align: left
