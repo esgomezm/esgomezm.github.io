@@ -1,14 +1,1 @@
-I'm a researcher passionate about **Math** (parallels may intersect: read Riemann or let's chat with a pen and a balloon), (Pseudo-)**Living systems** (are viruses alive?) and **Visual information-communication** (art, photography, drawing). 
-So biomedical imaging felt like the perfect match from the very first moment I got into science.
-Basically, I love combining mathematics and computer sciences with biomedical imaging to write new stories. 
-Find more information in the [interview with Focal Plane](https://focalplane.biologists.com/2024/02/27/an-interview-with-estibaliz-gomez-de-mariscal/).
-
-[My research](/research/) interests focus on
-1. The intersection between Artificial Intelligence and Microscopy imaging.
-1. Avancing Image-driven BioMedical Discovery.
-
-
-### Academic gossip
-I graduated in Mathematics at the Universidad del País Vasco (UPV/EHU) in 2014 and also studied at the University of Copenhagen, Denmark in 2012 as an ERASMUS student.
-In 2016, I obtained my M.Sc. in Statistical and Computational Data Processing from the Universidad Complutense de Madrid and Universidad Politécnica de Madrid. 
-I defended my PhD in Mathematical Engineering supervised by Prof. Arrate Muñoz Barrutia and Prof. Denis Wirtz (Johns Hopkins University) in 2021 at Universidad Carlos III de Madrid in Spain. During my thesis, I was a visiting fellow in the Computer Vision Group lead by Prof. Thomas Brox at the University of Freiburg and the Biomedical Imaging Group led by Prof. Michael Unser at EPFL, Lausanne. Currently, I'm a postdoc an EMBO Postdoctoral fellowship in Prof. Ricardo Henriques Lab at Instituto Gulbenkian de Ciência in Oeiras, Portugal.
+Estibaliz is a mathematician by training and earned her PhD in Mathematical Engineering from Universidad Carlos III de Madrid (Spain) in 2021, supervised by Prof. Arrate Muñoz Barrutia and Prof. Denis Wirtz (Johns Hopkins University). She was a postdoctoral researcher in Prof. Ricardo Henriques’ lab in Portugal working in smart-microscopy and microbiology, supported by an EMBO Postdoctoral Fellowship and an FCT CEEC Fellowship. Estibaliz contributed new AI-driven methods for bioimage analysis across applications including cancer cell migration, phototoxicity, and microbiology, as well as novel statistical approaches to analyse big data. She has also co-developed widely adopted open-source tools such as deepImageJ, the BioImage Model Zoo, and DL4MicEverywhere. Her contributions have been recognised with several awards, including the SBI2 President’s Award and a Wellcome Trust Discovery Award. Beyond her research, Estibaliz has played a key role in advancing the bioimage analysis community through collaborative and infrastructure initiatives. She is a founding member of the AI4LIFE EU consortium, contributing to the development of standards, training, and accessible resources for the application of AI in life sciences. Her work emphasises openness, reproducibility, and usability, with the goal of lowering barriers to advanced computational methods in biomedical research.
