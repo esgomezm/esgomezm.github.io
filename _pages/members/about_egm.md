@@ -6,3 +6,9 @@ Find more information in the [interview with Focal Plane](https://focalplane.bio
 [My research](/research/) interests focus on
 1. The intersection between Artificial Intelligence and Microscopy imaging.
 1. Avancing Image-driven BioMedical Discovery.
+
+
+### Academic gossip
+I graduated in Mathematics at the Universidad del País Vasco (UPV/EHU) in 2014 and also studied at the University of Copenhagen, Denmark in 2012 as an ERASMUS student.
+In 2016, I obtained my M.Sc. in Statistical and Computational Data Processing from the Universidad Complutense de Madrid and Universidad Politécnica de Madrid. 
+I defended my PhD in Mathematical Engineering supervised by Prof. Arrate Muñoz Barrutia and Prof. Denis Wirtz (Johns Hopkins University) in 2021 at Universidad Carlos III de Madrid in Spain. During my thesis, I was a visiting fellow in the Computer Vision Group lead by Prof. Thomas Brox at the University of Freiburg and the Biomedical Imaging Group led by Prof. Michael Unser at EPFL, Lausanne. Currently, I'm a postdoc an EMBO Postdoctoral fellowship in Prof. Ricardo Henriques Lab at Instituto Gulbenkian de Ciência in Oeiras, Portugal.

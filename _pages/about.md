@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://henriqueslab.org/'>AI-driven Optical Biology</a>, <a href='https://www.itqb.unl.pt/'>Instituto de Tecnología Química e Biología, Antonio Xavier, ITQB</a> - <a href='https://gimm.pt/'>Gulbenkian Institute for Molecular Medicine</a>, Oeiras, Portugal
+subtitle: <a href='https://nimsb.unl.pt/research-innovation/our-research-groups-final/test1-gm-lab/'>AI & Microscopy for Biomedical Discovery</a>, <a href='https://nimsb.unl.pt/'>NOVA Institute for Medical Systems Biology, NIMSB</a> Lisboa, Portugal
 
-profile:
-  align: right
-  image: profile_1.jpeg
-  image_circular: false # crops the image to make it circular
+# profile:
+ #  align: right
+  # image: profile_1.jpeg
+  # image_circular: false # crops the image to make it circular
   # more_info: >
   #  <p>555 your office number</p>
   #  <p>123 your address street</p>
@@ -19,24 +19,13 @@ social: true # includes social icons at the bottom of the page
 ---
 
 Welcome!
-I'm a postdoctoral researcher in [Prof. Ricardo Henriques' group](https://henriqueslab.org/) at [ITQB NOVA](https://www.itqb.unl.pt/) in Portugal. 
-If you want to know more about the ongoing research projects I'm involved in, please visit the lab's webpage. 
-This site is meant to detail my experience as a researcher and share different content.
 
-### Who am I?
-I'm a researcher passionate about **Math** (parallels may intersect: read Riemann or let's chat with a pen and a balloon), (Pseudo-)**Living systems** (are viruses alive?) and **Visual information-communication** (art, photography, drawing). 
-So biomedical imaging felt like the perfect match from the very first moment I got into science.
-Basically, I love combining mathematics and computer sciences with biomedical imaging to write new stories. 
-Find more information in the [interview with Focal Plane](https://focalplane.biologists.com/2024/02/27/an-interview-with-estibaliz-gomez-de-mariscal/).
+Our group works at the interface of AI, microscopy and biology to understand how cellular organisation and dynamics govern function in health and disease across multiple levels of complexity.
 
-[My research](/research/) interests focus on
-1. The intersection between Artificial Intelligence and Microscopy imaging.
-1. Avancing Image-driven BioMedical Discovery.
+We combine machine learning, bioimage analysis, microscopy and cell biology to extract quantitative, high-dimensional information from complex imaging data. By integrating these computational and experimental approaches together, we aim to uncover how cells adapt to and interact with their microenvironment across multiple spatial and temporal scales.
 
-Importantly, I'm yet another crazy researcher who believes that science builds upon the effort of the community (i.e., *us*) to disseminate advances and that its growth relies on responsible collaborations. As such, contributing to a more accessible science (reproducible, open, FAIR and/or user-friendly) is part of my dedication and spirit.
+We collaborate closely with researchers across diverse disease areas, including cancer, viral infection and neurodegenerative diseases, using both in vitro and in vivo models. These collaborations allow us to address biological questions across scales, from controlled experimental systems to clinically relevant contexts.
 
-### Academic gossip
-I graduated in Mathematics at the Universidad del País Vasco (UPV/EHU) in 2014 and also studied at the University of Copenhagen, Denmark in 2012 as an ERASMUS student.
-In 2016, I obtained my M.Sc. in Statistical and Computational Data Processing from the Universidad Complutense de Madrid and Universidad Politécnica de Madrid. 
-I defended my PhD in Mathematical Engineering supervised by Prof. Arrate Muñoz Barrutia and Prof. Denis Wirtz (Johns Hopkins University) in 2021 at Universidad Carlos III de Madrid in Spain. During my thesis, I was a visiting fellow in the Computer Vision Group lead by Prof. Thomas Brox at the University of Freiburg and the Biomedical Imaging Group led by Prof. Michael Unser at EPFL, Lausanne. Currently, I'm a postdoc an EMBO Postdoctoral fellowship in Prof. Ricardo Henriques Lab at Instituto Gulbenkian de Ciência in Oeiras, Portugal.
-[publications.md](publications.md)
+A core principle in our group is that science builds upon the effort of the community (i.e., *us*) to disseminate advances and that its growth relies on responsible collaborations. As such, contributing to a more accessible science is part of our dedication and spirit. Alongside our research, we develop open, accessible and reproducible tools that enable the broader community to analyse and interpret biological imaging data. Ultimately, our goal is to develop transformative methodologies to support a more quantitative, predictive and integrative approach to biomedical discovery. 
+
+In the lab, we are committed to fostering an inclusive and collaborative scientific environment that encourages creativity, diversity and out-of-the-box thinking. We believe that different backgrounds, perspectives and ways of thinking are essential drivers of innovation and discovery.
