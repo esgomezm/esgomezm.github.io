@@ -32,4 +32,6 @@ In the lab, we are committed to fostering an inclusive and collaborative scienti
 
 If you would like to join our group (PhD, MSc, postdoc), please reach out by email. I would also be happy to discuss and support funding applications for joining the lab (e.g., EMBO, MSCA, FCT). 
 
-🚨 *Open call for PhD students until June 5th:* https://nimsb.unl.pt/education-training-page/
+🚨 **Open call for PhD students until June 5th:** [https://nimsb.unl.pt/education-training-page/](https://nimsb.unl.pt/education-training-page/)
+
+**Important:** If you reach out to join the lab, I'd very much appreciate hearing from you directly rather than through an LLM. I want to learn about who you are from your own voice, personality and motivations, in the most sincere way possible, from the very first interaction.
