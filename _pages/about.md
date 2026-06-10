@@ -30,8 +30,21 @@ A core principle in our group is that science builds upon the effort of the comm
 
 In the lab, we are committed to fostering an inclusive and collaborative scientific environment that encourages creativity, diversity and out-of-the-box thinking. We believe that different backgrounds, perspectives and ways of thinking are essential drivers of innovation and discovery.
 
-If you would like to join our group (PhD, MSc, postdoc), please reach out by email. I would also be happy to discuss and support funding applications for joining the lab (e.g., EMBO, MSCA, FCT). 
+## Interested in joining the lab? Please reach out by email. 
+I would also be happy to discuss and support funding applications (e.g., EMBO, MSCA, FCT). 
 
-🚨 **Open call for PhD students until June 5th:** [https://nimsb.unl.pt/education-training-page/](https://nimsb.unl.pt/education-training-page/)
+### The lab is searching for candidates with (some) skills in:
+- Biomedical image processing and analysis
+- General AI and machine learning
+- Representation learning and GNN
+- Modelling
+- Microscopy (software, hardware, live-cell)
+- Cellular models (3D matrices, co-culture systems, spheroids)
+- Cell painting assays
+- Cell migration
+- (Bio)Informatics
+- Programming in Python
+
+🚨 **Open call for PhD student - Coming very soon, stay tuned!** (past from June 5th, 2026) [https://nimsb.unl.pt/education-training-page/](https://nimsb.unl.pt/education-training-page/)
 
 **Important:** If you reach out to join the lab, I'd very much appreciate hearing from you directly rather than through an LLM. I want to learn about who you are from your own voice, personality and motivations, in the most sincere way possible, from the very first interaction.
