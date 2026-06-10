@@ -25,24 +25,4 @@ profiles:
 #      <p>555 your office number</p>
 #      <p>123 your address street</p>
 #      <p>Your City, State 12345</p>
-
-## Interested in joining the lab? Please reach out by email. 
-I would also be happy to discuss and support funding applications (e.g., EMBO, MSCA, FCT). 
-
-### The lab is searching for candidates with (some) skills in:
-- Biomedical image processing and analysis
-- General AI and machine learning
-- Representation learning and GNN
-- Modelling
-- Microscopy (software, hardware, live-cell)
-- Cellular models (3D matrices, co-culture systems, spheroids)
-- Cell painting assays
-- Cell migration
-- (Bio)Informatics
-- Programming in Python
-
-🚨 **Open call for PhD student - Coming very soon, stay tuned!** (past from June 5th, 2026) [https://nimsb.unl.pt/education-training-page/](https://nimsb.unl.pt/education-training-page/)
-
-**Important:** If you reach out to join the lab, I'd very much appreciate hearing from you directly rather than through an LLM. I want to learn about who you are from your own voice, personality and motivations, in the most sincere way possible, from the very first interaction.
-
 ---
