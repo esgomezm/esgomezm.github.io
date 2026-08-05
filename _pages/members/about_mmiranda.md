@@ -1,1 +1,5 @@
 I am currently an MSc student in Computational Biology and Bioinformatics at NOVA School of Science and Technologyc working between [Almeida's Group](https://www.nms.unl.pt/en-us/research-innovation/research/research-groups/research-group/n/neuroscience-of-aging-and-alzheimer) and Gómez-de-Mariscal's Group. I completed my BSc in Computer Science and Engineering at Instituto Superior Técnico in 2024, where I developed a strong foundation in machine learning, artificial intelligence, and software engineering. My interest in biology, neuroscience, and their intersection with artificial intelligence led me to pursue a master's degree in computational biology. Before starting my master's, I worked as a Technology Intern at Amgen, where I contributed to the development and validation of generative AI solutions and supported data quality processes.
+
+[ORCID](https://orcid.org/0009-0001-2428-156X) ·
+[GitHub](https://github.com/mira-eanda) ·
+[LinkedIn](www.linkedin.com/in/mariana-miranda-6a04a0255) ·
