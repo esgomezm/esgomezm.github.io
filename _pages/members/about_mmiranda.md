@@ -2,4 +2,4 @@ I am currently an MSc student in Computational Biology and Bioinformatics at NOV
 
 [ORCID](https://orcid.org/0009-0001-2428-156X) ·
 [GitHub](https://github.com/mira-eanda) ·
-[LinkedIn](https://www.linkedin.com/in/mariana-miranda-6a04a0255) ·
+[LinkedIn](https://linkedin.com/in/mariana-miranda-6a04a0255) ·
