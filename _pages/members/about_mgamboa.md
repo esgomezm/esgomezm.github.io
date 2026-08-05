@@ -1,1 +1,5 @@
 I completed my BSc and MSc in Computer Science at NOVA School of Science and Technology (FCT NOVA). For my MSc thesis, I developed an AI-empowered solution at the [Fior Lab](https://fchampalimaud.org/research/groups/fior) and in collaboration with Gómez-de-Mariscal to automate cell death quantification in zebrafish for personalized cancer treatment screening (zAvatars). I continued this work as part of the Liga Portuguesa Contra o Cancro – Oeiras Valley’s initiative on AI-supported oncology research. Now, I am pursuing a PhD in cancer research at the Champalimaud Foundation between the labs of [Rita Fior](https://fchampalimaud.org/research/groups/fior) and Estibaliz Gómez-de-Mariscal, where I aim to bridge novel AI-driven technologies with advancements in scientific discovery.
+
+[ORCID](https://orcid.org/0009-0000-7126-9355) ·
+[GitHub](https://github.com/martimgamboa) ·
+[LinkedIn](www.linkedin.com/in/martimgamboa) ·
