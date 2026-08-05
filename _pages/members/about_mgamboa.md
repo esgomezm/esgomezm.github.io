@@ -2,4 +2,4 @@ I completed my BSc and MSc in Computer Science at NOVA School of Science and Tec
 
 [ORCID](https://orcid.org/0009-0000-7126-9355) ·
 [GitHub](https://github.com/martimgamboa) ·
-[LinkedIn](www.linkedin.com/in/martimgamboa) ·
+[LinkedIn](https://linkedin.com/in/martimgamboa) ·
