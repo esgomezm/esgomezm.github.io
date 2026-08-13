@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 permalink: /research/
 title: research
 description: AI and microscopy for image-driven biomedical discovery
