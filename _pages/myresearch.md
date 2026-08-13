@@ -2,23 +2,23 @@
 layout: page
 permalink: /research/
 title: research
-description: 
+description: AI and microscopy for image-driven biomedical discovery
 nav: true
 nav_order: 1
 ---
 
-My contributions build upon the ability to ask & translate biomedical questions into math, and the skills to develop advanced image processing workflows. 
-These are the different works that brought me the chance to get such skills and prove myself as a scientist:
+## AI and Microscopy for Biomedical Discovery
 
-**Advance bioimaging**. Working on the interface between analytical imaging, algorithm development, AI and biology is incredibly enriching to identify critical technological limitations and to build multidisciplinary pipelines that enable groundbreaking approaches in research. At the moment I'm working on AI-enabled live-cell microscopy imaging to understand how virtual approaches can be optimised to produce new scientific discoveries.
+Our group is building a research programme at the interface of artificial intelligence, microscopy and biology. We aim to turn complex images into quantitative knowledge and create new ways to investigate how cells organise, change and interact in health and disease. Our interests centre on three connected research directions:
 
-**FAIRy deep learning**. Yet more popular, I'm one of the creators of deepImageJ -an environment to bridge deep learning to ImageJ-, a core team member of the BioImage Model Zoo, a developer of ZeroCostDL4Mic and DeepBacs, and also a collaborator of the Cell Tracking Challenge. All these projects contribute to making the awesome image analysis technology accessible, reusable and reproducible.
+### AI for image-driven biomedical research
 
-**Cell motility**. During my doctorate, I studied cell motility in 3D mesenchymal cell migration. 
-I'm particularly interested in deciphering the role of the dendritic protrusions formed by the cells to produce contractile movements. 
-Can we relate their mechanics with the cell motility patterns? What is their role in the 3D mesenchymal migration? 
-To answer these questions, I developed automatic image analysis methods to process phase-contrast time-lapse movies of cells embedded in 3D Collagen Type I matrices (*segmentation, tracking and detection*).
+We are interested in representation learning and foundation models that can learn from diverse biomedical images and transfer across experiments, imaging modalities and biological systems. Our focus is on methods that capture biologically meaningful variation and help reveal phenotypes that are difficult to define manually. Ultimately, our goal is to leverage AI as a tool to support biological hypothesis generation and testing in a data-driven manner.
 
-**Biostatistics**. Automatic image processing allows us generating tones of data that need to be analysed afterwards. Namely, dealing with big numbers requires new analytical approaches. For this, we developed a novel approach to assess statistical null hypotheses (`H0`) in the big-data paradigm (yes, *p-values* are data size-dependent). 
+### Cell dynamics
 
-**Small extracellular vesicles**. Small extracellular vesicles play a critical role in the cell communication of many physiological processes, such as tumor growth. Due to their nanosize, studying their molecular cargo and structure is limited to challenging isolation clearing protocols. Moreover, imaging extracellular vesicles is only possible with super-resolution imaging that then, requires an advance image analysis. Together with collaborators, we contributed an automatic deep-learning based method to analyse the structure of extracellular vesicles in transmission electron microscopy images.
+We want to understand how cell shape, intracellular architecture and behaviour change across space and time. By combining live-cell imaging with quantitative analysis, we aim to develop dynamic phenotypes that connect cellular organisation and motion to cell state and function. We are particularly interested in cell migration and in how cancer cells move through and adapt to complex 3D microenvironments.
+
+### Data-driven microscopy
+
+We explore microscopy systems in which image acquisition and analysis inform one another. Our goal is to use real-time information from images to decide where, when and how to observe a biological process, helping capture transient events during cell migration while reducing unnecessary imaging and data generation. 
