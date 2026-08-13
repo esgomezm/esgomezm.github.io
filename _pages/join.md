@@ -23,7 +23,7 @@ We welcome enquiries from postdoctoral researchers interested in developing coll
 
 MSc thesis projects are available for students from computational, engineering, physics or life-science backgrounds. Projects can range from AI and bioimage-analysis methods to quantitative studies of cellular dynamics and microscopy. Their scope will be adapted to the student's experience, interests and degree requirements.
 
-### Backgrounds and skills
+**BACKGROUNDS AND SKILLS**
 
 Relevant experience or interests may include:
 
@@ -33,7 +33,7 @@ Relevant experience or interests may include:
 
 You do not need to cover all these areas. We value complementary expertise, willingness to learn and enthusiasm for working across disciplines.
 
-### Get in touch
+**GET IN TOUCH**
 
 Please [email me](mailto:{{ site.email }}) with your CV, a short introduction, your current stage and background, why you are interested in the lab, and the type of opportunity you are looking for.
 
