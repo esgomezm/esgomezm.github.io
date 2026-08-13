@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: join us
 permalink: /join/
 nav_order: 5
