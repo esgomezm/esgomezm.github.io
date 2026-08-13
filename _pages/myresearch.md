@@ -29,28 +29,27 @@ We explore microscopy systems in which image acquisition and analysis inform one
   <div class="row row-cols-1 row-cols-md-2">
 
     <div class="col mb-4">
-      <a href="https://wellcome.org/research-funding/funding-portfolio/funded-grants/how-are-bunyavirus-replication-factories-built" target="_blank" rel="noopener noreferrer">
         <div class="card hoverable h-100">
-          <div class="card-body">
-            <h3 class="card-title">How are bunyavirus replication factories built?</h3>
-            <p class="card-text">John Barr, Martin Stacey, Juan Fontana, Estibaliz Gómez-de-Mariscal</p>
-            <p class="post-meta">Wellcome Trust Discovery Award· 2026</p>
-          </div>
+            <div class="card-body">
+                <a href="https://wellcome.org/research-funding/funding-portfolio/funded-grants/how-are-bunyavirus-replication-factories-built" target="_blank" rel="noopener noreferrer">
+                    <h4 class="card-title">How are bunyavirus replication factories built?</h4>
+                </a>
+                <p class="card-text">John Barr, Martin Stacey, Juan Fontana, Estibaliz Gómez-de-Mariscal</p>
+                <p class="post-meta">Wellcome Trust Discovery Award· 2026</p>
+            </div>
         </div>
-      </a>
     </div>
 
     <div class="col mb-4">
-      <a href="SECOND_PROJECT_URL" target="_blank" rel="noopener noreferrer">
         <div class="card hoverable h-100">
           <div class="card-body">
-            <h3 class="card-title">AI-Empowered High-Throughput Analysis of Patient-derived Zebrafish Xenografts for Personalized Cancer Treatment</h3>
-            <p class="card-text">Rita Fior, Marta Estrada, Estibaliz Gómez-de-Mariscal</p>
-            <p class="post-meta">Bolsa Liga Portuguesa Contra o Cancro, Oeiras Valley · 2025</p>
+                <a href="https://www.ligacontracancro.pt/bolsalpccnrsov2025/" target="_blank" rel="noopener noreferrer">
+                    <h4 class="card-title">AI-Empowered High-Throughput Analysis of Patient-derived Zebrafish Xenografts for Personalized Cancer Treatment</h4>
+                </a>
+                <p class="card-text">Rita Fior, Marta Estrada, Estibaliz Gómez-de-Mariscal</p>
+                <p class="post-meta">Bolsa Liga Portuguesa Contra o Cancro, Oeiras Valley · 2025</p>
           </div>
         </div>
-      </a>
     </div>
-
   </div>
 </div>
