@@ -14,6 +14,7 @@ profiles:
     content: members/about_egm.md
     image_circular: false # crops the image to make it circular
     more_info: >
+      <p>Estibaliz Gómez-de-Mariscal</p>
       <p>Group leader</p>
     #  <p>123 your address street</p>
     #  <p>Your City, State 12345</p>
@@ -22,6 +23,7 @@ profiles:
     content: members/about_mgamboa.md
     image_circular: false # crops the image to make it circular
     more_info: >
+      <p>Martim Gamboa</p>
       <p>PhD Student</p>
 #      <p>123 your address street</p>
 #      <p>Your City, State 12345</p>
@@ -30,6 +32,7 @@ profiles:
     content: members/about_mmiranda.md
     image_circular: false # crops the image to make it circular
     more_info: >
+      <p>Mariana Miranda</p>
       <p>MSc Student</p>
 #      <p>123 your address street</p>
 #      <p>Your City, State 12345</p>
