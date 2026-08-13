@@ -4,6 +4,6 @@ Estibaliz is a mathematician by training and earned her PhD in Mathematical Engi
 [Curriculum vitae](https://esgomezm.github.io/assets/pdf/EstibalizGomezdeMariscal_cv.pdf) ·
 [ORCID](https://orcid.org/0000-0003-2082-3277) ·
 [GitHub](https://github.com/esgomezm) ·
-[LinkedIn](https://www.linkedin.com/in/estibaliz-g%C3%B3mez-de-mariscal-44006b9b/) ·
+[LinkedIn](https://linkedin.com/in/estibaliz-g%C3%B3mez-de-mariscal-44006b9b/) ·
 [Bluesky](https://bsky.app/profile/gomez-mariscal.bsky.social) ·
 [X](https://x.com/gomez_mariscal)
