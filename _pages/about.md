@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-# [AI & Microscopy for Biomedical Discovery Research Group](https://nimsb.unl.pt/research-innovation/our-research-groups-final/test1-gm-lab/)
+## [AI & Microscopy for Biomedical Discovery Research Group](https://nimsb.unl.pt/research-innovation/our-research-groups-final/test1-gm-lab/)
 **[NOVA Institute for Medical Systems Biology, NIMSB](https://nimsb.unl.pt/), Lisboa, Portugal**
 
 Our group works at the interface of AI, microscopy and biology to understand how cellular organisation and dynamics govern function in health and disease across multiple levels of complexity.
