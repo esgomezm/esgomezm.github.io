@@ -9,17 +9,17 @@ description: Opportunities for PhD students, postdoctoral researchers and MSc st
 
 We welcome curious and collaborative researchers who would like to work at the interface of AI, microscopy and biology. 
 
-### PhD students
+#### PhD students
 
 We are particularly interested in candidates who want to explore how AI and quantitative microscopy can help answer biological questions. PhD projects may combine computational method development with biomedical applications, or focus more deeply on either the computational or experimental side. Formal opportunities are advertised through the [NIMSB Education & Training page](https://nimsb.unl.pt/education-training-page/), but prospective candidates are also welcome to get in touch to discuss their interests.
 
 🚨 **A new PhD call will be announced in September. Please reach out if you are interested.**
 
-### Postdoctoral researchers
+#### Postdoctoral researchers
 
 We welcome enquiries from postdoctoral researchers interested in developing collaborative projects aligned with the lab's research. I would be happy to discuss ideas and support suitable fellowship applications, including EMBO, MSCA and FCT schemes. Please get in touch well ahead of the relevant deadline so that we have time to shape the project together.
 
-### MSc students
+#### MSc students
 
 MSc thesis projects are available for students from computational, engineering, physics or life-science backgrounds. Projects can range from AI and bioimage-analysis methods to quantitative studies of cellular dynamics and microscopy. Their scope will be adapted to the student's experience, interests and degree requirements.
 

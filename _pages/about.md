@@ -30,4 +30,4 @@ A core principle in our group is that science builds upon the effort of the comm
 
 In the lab, we are committed to fostering an inclusive and collaborative scientific environment that encourages creativity, diversity and out-of-the-box thinking. We believe that different backgrounds, perspectives and ways of thinking are essential drivers of innovation and discovery.
 
-## [Jon us!!](https://esgomezm.github.io/join/)
+### [Join us!]({{ '/join/' | relative_url }})
