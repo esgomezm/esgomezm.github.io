@@ -4,10 +4,10 @@ title: about
 permalink: /
 subtitle:
 
-# profile:
- #  align: right
-  # image: profile_1.jpeg
-  # image_circular: false # crops the image to make it circular
+profile:
+  align: right
+  image: cell_virtualisation.png
+  image_circular: false # crops the image to make it circular
   # more_info: >
   #  <p>555 your office number</p>
   #  <p>123 your address street</p>
@@ -32,3 +32,4 @@ A core principle in our group is that science builds upon the effort of the comm
 In the lab, we are committed to fostering an inclusive and collaborative scientific environment that encourages creativity, diversity and out-of-the-box thinking. We believe that different backgrounds, perspectives and ways of thinking are essential drivers of innovation and discovery.
 
 ## [Join us!]({{ '/join/' | relative_url }})
+
