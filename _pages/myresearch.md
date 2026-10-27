@@ -10,11 +10,11 @@ nav_order: 1
 ## AI and Microscopy for Biomedical Discovery
 
 <div class="row align-items-center mb-4">
-  <div class="col-sm-7">
+  <div class="col-sm-8">
     <p>Our group is building a research programme at the interface of artificial intelligence, microscopy and biology. We aim to turn complex images into quantitative knowledge and create new ways to investigate how cells organise, change and interact in health and disease.</p>
     <p>We develop open, accessible and reproducible tools that enable the broader community to analyse and interpret biological imaging data. Our interests centre on three connected research directions:</p>
   </div>
-  <div class="col-sm-5 mt-3 mt-sm-0">
+  <div class="col-sm-3 ml-auto mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/cell_virtualisation.png" class="img-fluid rounded z-depth-1" alt="AI-assisted analysis of cells migrating through a three-dimensional microenvironment" %}
   </div>
 </div>
