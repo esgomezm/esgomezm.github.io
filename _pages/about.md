@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: cell_virtualisation.png
+  image: aim4bio_lab_oct2026.png
   image_circular: false # crops the image to make it circular
   # more_info: >
   #  <p>555 your office number</p>
