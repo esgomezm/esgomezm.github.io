@@ -2,7 +2,7 @@
 layout: default
 permalink: /research/
 title: research
-description: 
+description:
 nav: true
 nav_order: 1
 ---
@@ -29,7 +29,7 @@ We want to understand how cell shape, intracellular architecture and behaviour c
 
 **Data-driven microscopy**
 
-We explore microscopy systems in which image acquisition and analysis inform one another. Our goal is to use real-time information from images to decide where, when and how to observe a biological process, helping capture transient events during cell migration while reducing unnecessary imaging and data generation. 
+We explore microscopy systems in which image acquisition and analysis inform one another. Our goal is to use real-time information from images to decide where, when and how to observe a biological process, helping capture transient events during cell migration while reducing unnecessary imaging and data generation.
 
 ### Ongoing Projects
 
@@ -59,5 +59,6 @@ We explore microscopy systems in which image acquisition and analysis inform one
           </div>
         </div>
     </div>
+
   </div>
 </div>

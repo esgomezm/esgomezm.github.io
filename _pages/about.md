@@ -19,6 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 ## [AI & Microscopy for Biomedical Discovery Research Group](https://nimsb.unl.pt/research-groups/gomez-de-mariscal-lab/)
+
 **[NOVA Institute for Medical Systems Biology, NIMSB](https://nimsb.unl.pt/), Lisboa, Portugal**
 
 Our group works at the interface of AI, microscopy and biology to understand how cellular organisation and dynamics govern function in health and disease across multiple levels of complexity.
@@ -27,9 +28,8 @@ We combine machine learning, bioimage analysis, microscopy and cell biology to e
 
 We collaborate closely with researchers across diverse disease areas, including cancer, viral infection and neurodegenerative diseases, using both in vitro and in vivo models. These collaborations allow us to address biological questions across scales, from controlled experimental systems to clinically relevant contexts.
 
-A core principle in our group is that science builds upon the effort of the community (i.e., *us*) to disseminate advances and that its growth relies on responsible collaborations. As such, contributing to a more accessible science is part of our dedication and spirit. Alongside our research, we develop open, accessible and reproducible tools that enable the broader community to analyse and interpret biological imaging data. Ultimately, our goal is to develop transformative methodologies to support a more quantitative, predictive and integrative approach to biomedical discovery. 
+A core principle in our group is that science builds upon the effort of the community (i.e., _us_) to disseminate advances and that its growth relies on responsible collaborations. As such, contributing to a more accessible science is part of our dedication and spirit. Alongside our research, we develop open, accessible and reproducible tools that enable the broader community to analyse and interpret biological imaging data. Ultimately, our goal is to develop transformative methodologies to support a more quantitative, predictive and integrative approach to biomedical discovery.
 
 In the lab, we are committed to fostering an inclusive and collaborative scientific environment that encourages creativity, diversity and out-of-the-box thinking. We believe that different backgrounds, perspectives and ways of thinking are essential drivers of innovation and discovery.
 
 ## [Join us!]({{ '/join/' | relative_url }})
-

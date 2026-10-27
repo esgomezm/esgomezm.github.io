@@ -5,9 +5,9 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-    - title: Food in Lisbon
-      permalink: /food/
-    - title: divider
-    - title: Teaching
-      permalink: /teaching/
+  - title: Food in Lisbon
+    permalink: /food/
+  - title: divider
+  - title: Teaching
+    permalink: /teaching/
 ---

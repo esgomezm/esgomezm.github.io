@@ -7,7 +7,7 @@ nav: true
 description: Opportunities for PhD students, postdoctoral researchers and MSc students to join the lab
 ---
 
-We welcome curious and collaborative researchers who would like to work at the interface of AI, microscopy and biology. 
+We welcome curious and collaborative researchers who would like to work at the interface of AI, microscopy and biology.
 
 #### PhD students
 

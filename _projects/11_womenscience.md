@@ -2,7 +2,7 @@
 layout: page
 permalink: /womenscience/
 title: Women in science
-description: 
+description:
 img: assets/img/women_science.png
 importance: 3
 category: blog

@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: team
-description: 
+description:
 nav: true
 nav_order: 4
 
@@ -25,8 +25,8 @@ profiles:
     more_info: >
       <p>Martim Gamboa</p>
       <p>PhD Student</p>
-#      <p>123 your address street</p>
-#      <p>Your City, State 12345</p>
+  #      <p>123 your address street</p>
+  #      <p>Your City, State 12345</p>
   - align: left
     image: profile_mmiranda.jpg
     content: members/about_mmiranda.md
@@ -34,6 +34,7 @@ profiles:
     more_info: >
       <p>Mariana Miranda</p>
       <p>MSc Student</p>
+
 #      <p>123 your address street</p>
 #      <p>Your City, State 12345</p>
 ---
