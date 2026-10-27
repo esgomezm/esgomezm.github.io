@@ -11,7 +11,7 @@ We welcome curious and collaborative researchers who would like to work at the i
 
 #### PhD students
 
-We are particularly interested in candidates who want to explore how AI and quantitative microscopy can help answer biological questions. PhD projects may combine computational method development with biomedical applications, or focus more deeply on either the computational or experimental side. Formal opportunities are advertised through the [NIMSB Education & Training page](https://nimsb.unl.pt/education-training-page/), but prospective candidates are also welcome to get in touch to discuss their interests.
+We are particularly interested in candidates who want to explore how AI and quantitative microscopy can help answer biological questions. PhD projects may combine computational method development with biomedical applications, or focus more deeply on either the computational or experimental side. Formal opportunities are advertised through the [NIMSB Education & Training page](https://nimsb.unl.pt/education-and-training/), but prospective candidates are also welcome to get in touch to discuss their interests.
 
 🚨 **A new PhD call will be announced in September.**
 
