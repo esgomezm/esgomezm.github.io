@@ -54,7 +54,7 @@ Note that Portuguese food usually has fish or meat.
   - [Mercearia do Peixe](https://goo.gl/maps/wwTgiTGiSFkpJssZ6). Fresh fish, choose the piece.
   - [Quitanda Centro Naútico](https://goo.gl/maps/PfFtas2oxiFiLgGL6). Fresh fish, choose the piece.
   - [Caçoila](https://goo.gl/maps/9FiDMdUWmQy3qfPa6). Nice traditional spot with very good service, cozy and a cute terrace.
-  - [O Pombalino](especially for cocido) (https://goo.gl/maps/GKynJbdxDRDyF2bVA)
+  - [O Pombalino](https://goo.gl/maps/GKynJbdxDRDyF2bVA) (especially for cocido).
   - [Confraria do Polvo](https://goo.gl/maps/GyNbrPCocRV1cgbL6) (octopus)
   - [Brasa de Sassoeiros](https://goo.gl/maps/FFi8GMu5RAUCgeVT7)
   - [Charkoal](https://goo.gl/maps/MMqPi9YS722NvYUE6)
