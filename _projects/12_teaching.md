@@ -13,7 +13,7 @@ category: teaching
 - **Al enhanced microscopy imaging: challenges and perspectives**, ANERIS project workshop "AI basics for image processing", December 2023. [Recorded workshop](https://youtu.be/DN6Ef9zaofo?si=4j-SS3Zpl2RHEAy)
 - **Introduction to image analysis for microscopy.** (From theory into practice) Fundamentals of light microscopy and image processing, ITQB - Nova, September 2023:
   - <iframe width="560" height="315" src="https://www.youtube.com/embed/WO9iRRnN6BA?si=3vUSAjECR5_JHLDS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"   allowfullscreen></iframe>
-- Switzerland's Image and Data Analysis School [(ZIDAS) 2020](https://2020.zidas.org/),
+- Switzerland's Image and Data Analysis School (ZIDAS) 2020,
   [_Introduction to Deep Learning_](https://github.com/esgomezm/zidas2020_intro_DL)
 
 - **Confronting p-hacking: addressing p-value dependence on sample size**, 4th NEUBIAS Training School for Bioimage Analysts (TS15), Bordeaux 2020.
